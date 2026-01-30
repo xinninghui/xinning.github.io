@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 4th-year Ph.D. student at
+role: 5th-year Ph.D. student at
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,9 +47,10 @@ profiles:
 #     url: https://orcid.org/
 
 interests:
-  - Serverless Computing
-  - ML systems
+  - AI Infrastructure
   - Cloud Computing
+  - ML systems
+  
 
 education:
   - area: Ph.D. of Computer Science
@@ -183,4 +184,4 @@ education:
 
 ## About Me
 
-I am a Ph.D. student in the Department of Computer Science at the North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I am broadly interested in improving the performance and efficiency of ML systems. My recent research focus on optimizing performance and effiency of the ML application on single- and multi-GPUs at serverless computing systems.
+I am a Ph.D. student in the Department of Computer Science at the North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). I am broadly interested in improving the performance and efficiency of ML systems. My recent research focus on optimizing performance and effiency of the ML application on single- and multi-GPUs at cloud computing systems.
